@@ -50,7 +50,6 @@ export default new Developer();
 
 <br clear="right"/>
 ---
-
 # 🛠 Tech Stack
 
 ## 💻 Languages
