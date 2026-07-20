@@ -49,38 +49,64 @@ export default new Developer();
 - 🎯 **Detail-Oriented** - Can sit for hours perfecting that one feature
 
 <br clear="right"/>
----
-# 🛠 Tech Stack
 
-## 💻 Languages
+## 🛠 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,java,python,c,cpp" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-## 🎨 Frontend
+### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,c,cpp" />
 
-## ⚙ Backend
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<td align="center" width="50%">
 
-## 🗄 Database
+### 🎨 Frontend
 
-<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,redux" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
+</td>
+
+<td align="center">
+
+### 🗄️ Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-## ☁ Cloud & DevOps
+</td>
+</tr>
 
-<p>
+<tr>
+<td align="center">
+
+### ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,npm,postman,vscode" />
-</p>
+
+</td>
+
+<td align="center">
+
+### 🚀 Tools & Others
+
+<img src="https://skillicons.dev/icons?i=linux,bash,figma,vercel,netlify" />
+
+</td>
+</tr>
+</table>
 
 ---
 
