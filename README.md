@@ -1,30 +1,214 @@
-## Hi there 👋 It's me Hareesh
+# 👋 Hi, I'm Prakash
 
-Software Engineer @ Zoho Corporation
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
-- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- ⚡ Fun fact: I know Japanese.
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+<div align="center">
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+# 💻 Full Stack Developer | 🚀 B.Tech Information Technology Student
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+### Building Modern Web Applications & Solving Real-World Problems
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+</div>
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+---
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+## 🚀 About Me
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```javascript
+const prakash = {
+    education: "B.Tech Information Technology",
+    role: "Full Stack Developer",
+    location: "India",
+    currentlyLearning: [
+        "React",
+        "Next.js",
+        "Node.js",
+        "MongoDB",
+        "System Design",
+        "Cloud Computing"
+    ],
+    interests: [
+        "Web Development",
+        "Open Source",
+        "AI",
+        "Backend Development",
+        "Blockchain"
+    ],
+    askMeAbout: [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "Express",
+        "JavaScript"
+    ],
+    funFact: "I love building real-world projects 🚀"
+}
+```
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,java,python,c,cpp" />
+</p>
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
+</p>
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## ☁ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,npm,postman,vscode" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🏫 IT Department Portal
+
+> Complete department management system with Admin, Faculty & Student dashboards.
+
+**Tech Used**
+
+- React
+- Node.js
+- Express
+- MongoDB
+- JWT Authentication
+
+---
+
+## 🔗 Blockchain-Based Record Management System
+
+Secure digital record verification using blockchain technology.
+
+---
+
+## 🏙 Civic Issue Reporting System
+
+Report and track civic issues with image upload, location tracking, and status updates.
+
+---
+
+## 📚 College Management System
+
+Role-based management system for students, faculty, attendance, and academics.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=7"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- ⚛ Advanced React
+- 🚀 Next.js
+- ☁ AWS Cloud
+- 🐳 Docker
+- 🔐 Authentication & Security
+- 🧠 System Design
+- 🤖 AI Integration
+- 📱 Responsive UI/UX
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build 10+ Production Ready Projects
+- ✅ Contribute to Open Source
+- ✅ Master MERN Stack
+- ✅ Learn Cloud Computing
+- ✅ Crack Software Engineering Internship
+- ✅ Improve DSA & Problem Solving
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💙 Thanks for Visiting!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+
+### ⭐ If you like my work, don't forget to Star my repositories!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning!;Build+Something+Awesome!" />
+
+</div>
