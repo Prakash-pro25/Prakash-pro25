@@ -113,17 +113,7 @@ export default new Developer();
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prakash-pro25&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-pro25&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -143,15 +133,18 @@ export default new Developer();
 
 </p>
 
----
+--- 
 
-# 🏆 GitHub Trophies
+## 💭 Dev Quote
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prakash-pro25&theme=algolia&row=1&column=7"/>
+![Quote](Programs must be written for people to read, and only incidentally for machines to execute)
+>
+> — **Harold Abelson**
+</div>
 
-</p>
+
 
 ---
 
@@ -187,11 +180,11 @@ export default new Developer();
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="www.linkedin.com/in/prakash-p25">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:prakash25112006@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -203,7 +196,7 @@ export default new Developer();
 
 ## 💙 Thanks for Visiting!
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=Prakash-pro25&style=for-the-badge&color=0e75b6"/>
 
 ### ⭐ If you like my work, don't forget to Star my repositories!
 
