@@ -49,7 +49,7 @@ export default new Developer();
 - 🎯 **Detail-Oriented** - Can sit for hours perfecting that one feature
 
 <br clear="right"/>
----
+**---
 
 # 🛠 Tech Stack
 
@@ -83,7 +83,7 @@ export default new Developer();
 <img src="https://skillicons.dev/icons?i=aws,docker,git,github,npm,postman,vscode" />
 </p>
 
----
+---**
 
 ## 💼 Featured Projects
 
