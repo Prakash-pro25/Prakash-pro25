@@ -14,35 +14,41 @@
 
 ## 🚀 About Me
 
-```javascript
-const prakash = {
-    education: "B.Tech Information Technology",
-    role: "Full Stack Developer",
-    location: "India",
-    currentlyLearning: [
-        "React",
-        "Next.js",
-        "Node.js",
-        "MongoDB",
+## 👨‍💻 About Me
+
+```ts
+class Developer {
+    name = "Prakash";
+    role = "Full Stack Developer";
+    education = "B.Tech Information Technology";
+
+    skills = {
+        frontend: ["React", "Next.js", "Tailwind CSS"],
+        backend: ["Node.js", "Express.js"],
+        database: ["MongoDB", "MySQL"],
+        languages: ["JavaScript", "Java", "Python", "C++"]
+    };
+
+    currentlyLearning = [
         "System Design",
-        "Cloud Computing"
-    ],
-    interests: [
-        "Web Development",
-        "Open Source",
+        "Cloud Computing",
         "AI",
-        "Backend Development",
-        "Blockchain"
-    ],
-    askMeAbout: [
-        "React",
-        "Node.js",
-        "MongoDB",
-        "Express",
-        "JavaScript"
-    ],
-    funFact: "I love building real-world projects 🚀"
+        "DevOps"
+    ];
+
+    hobbies = [
+        "Building Projects",
+        "Learning New Technologies",
+        "Open Source"
+    ];
+
+    getStatus() {
+        return "Turning coffee ☕ into clean code and innovative solutions. 🚀";
+    }
 }
+
+export default new Developer();
+```
 ```
 
 ---
