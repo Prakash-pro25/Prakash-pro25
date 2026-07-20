@@ -50,59 +50,45 @@ export default new Developer();
 
 <br clear="right"/>
 
-## 🛠 Tech Stack
+## ⚡ Tech Arsenal
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Languages
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=javascript,typescript,java,python,c,cpp" />
-
-</td>
-
-<td align="center" width="50%">
+</p>
 
 ### 🎨 Frontend
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,redux" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
+</p>
 
 ### ⚙️ Backend
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+</p>
 
 </td>
 
-<td align="center">
+<td width="50%" valign="top">
 
 ### 🗄️ Database
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
+</p>
 
 ### ☁️ Cloud & DevOps
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,npm,postman,vscode" />
-
-</td>
-
-<td align="center">
-
-### 🚀 Tools & Others
-
-<img src="https://skillicons.dev/icons?i=linux,bash,figma,vercel,netlify" />
+### 🛠 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,linux,bash,figma,vercel,netlify" />
+</p>
 
 </td>
 </tr>
