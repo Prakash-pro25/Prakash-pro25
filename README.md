@@ -139,25 +139,12 @@ export default new Developer();
 
 <div align="center">
 
-![Quote](Programs must be written for people to read, and only incidentally for machines to execute)
+>"Programs must be written for people to read, and only incidentally for machines to execute"
 >
 > — **Harold Abelson**
 </div>
 
 
-
----
-
-# 📚 Currently Learning
-
-- ⚛ Advanced React
-- 🚀 Next.js
-- ☁ AWS Cloud
-- 🐳 Docker
-- 🔐 Authentication & Security
-- 🧠 System Design
-- 🤖 AI Integration
-- 📱 Responsive UI/UX
 
 ---
 
@@ -192,14 +179,25 @@ export default new Developer();
 
 ---
 
+
 <div align="center">
 
-## 💙 Thanks for Visiting!
+### 🌟 "Where patience meets code, magic happens" ✨
 
-<img src="https://komarev.com/ghpvc/?username=Prakash-pro25&style=for-the-badge&color=0e75b6"/>
+**Thanks for visiting! Let's build something amazing together 🚀**
 
-### ⭐ If you like my work, don't forget to Star my repositories!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning!;Build+Something+Awesome!" />
+</div>
+
+---
+
+<div align="center">
+
+**Made with ❤️, ☕, and countless hours of coding by Prakash**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things;Open+to+Collaborations;Happy+Coding;Keep+Learning;Build+Something+Awesome!)
+
+*Last Updated: May 2026*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
