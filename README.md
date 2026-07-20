@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Prakash
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAKASH%20P&fontSize=42&fontAlignY=32&desc=💻%20Full%20Stack%20Developer%20|%20♨️Turning%20Coffee%20into%20Code&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👋%20Hi,%20I'm%20Prakash&fontSize=42&fontAlignY=32&desc=💻%20Full%20Stack%20Developer%20|%20♨️Turning%20Coffee%20into%20Code&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 ### Building Modern Web Applications & Solving Real-World Problems
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
@@ -39,14 +38,16 @@ export default new Developer();
 ```
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🚀 What Drives Me
+## 🚀 What Defines Me
 
-- 💻 **Creative Coder** - I don't just write code, I craft experiences
-- 🎨 **UI/UX Design Sense** - Making things beautiful AND functional
-- 🎬 **Content Creator** - Capturing memories through videos and photos
-- 🧩 **Problem Solver** - Love tackling complex challenges with patience
-- ⚡ **Fast Learner** - Always hungry for new tech and skills
-- 🎯 **Detail-Oriented** - Can sit for hours perfecting that one feature
+- ⚛ **Full Stack Engineer** — Crafting modern, scalable web applications from frontend to backend.
+- 💡 **Innovation First** — Passionate about building solutions that solve real-world problems.
+- 🔥 **Always Learning** — Every project is an opportunity to learn something new.
+- 🛠 **Builder's Mindset** — From idea to deployment, I love creating complete products.
+- 🤖 **Future Tech Explorer** — Exploring AI, Blockchain, Cloud Computing, and System Design.
+- 🎯 **Clean Code Advocate** — Writing code that's efficient, maintainable, and scalable.
+- 📈 **Growth Mindset** — Constantly improving my skills, one commit at a time.
+- 🚀 **Mission** — Learn, Build, Innovate, Repeat.
 
 <br clear="right"/>
 
@@ -87,7 +88,7 @@ export default new Developer();
 
 ### 🛠 Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman,npm,linux,bash,figma,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,linux,bash,notion,figma,vercel,netlify" />
 </p>
 
 </td>
@@ -133,15 +134,17 @@ export default new Developer();
 
 </p>
 
+
+
 --- 
 
 ## 💭 Dev Quote
 
 <div align="center">
 
->"Programs must be written for people to read, and only incidentally for machines to execute"
->
-> — **Harold Abelson**
+**"Programs must be written for people to read, and only incidentally for machines to execute"**
+
+ — **Harold Abelson**
 </div>
 
 
@@ -159,37 +162,94 @@ export default new Developer();
 
 ---
 
-# 🌐 Connect With Me
+## 🤝 Let's Connect & Collaborate!
 
-<p align="left">
+<div align="center">
 
-<a href="https://github.com/Prakash-pro25">
-<img src="https://skillicons.dev/icons?i=github"/>
+### 🚀 Building the future, one line of code at a time.
+
+I'm passionate about **Full Stack Development, AI, Blockchain, and Cloud Technologies**.  
+I love building impactful projects, exploring new technologies, and connecting with developers who share the same passion for innovation.
+
+<br/>
+
+### 📬 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Prakash-pro25" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="www.linkedin.com/in/prakash-p25">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/prakash-p25/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:prakash25112006@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </p>
 
----
+<p align="center">
 
+<a href="https://github.com/Prakash-pro25">
+<img src="https://img.shields.io/badge/GitHub-Prakash--pro25-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<div align="center">
+<a href="https://www.linkedin.com/in/prakash-p25/">
+<img src="https://img.shields.io/badge/LinkedIn-Prakash%20P-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🌟 "Where patience meets code, magic happens" ✨
+<a href="mailto:prakash25112006@gmail.com">
+<img src="https://img.shields.io/badge/Email-prakash25112006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Thanks for visiting! Let's build something amazing together 🚀**
+</p>
 
+<br/>
+
+### 💼 Open To Opportunities
+
+<table>
+<tr>
+<td align="center">💻</td>
+<td><b>Full Stack Development</b><br/>Building scalable web applications</td>
+</tr>
+
+<tr>
+<td align="center">🚀</td>
+<td><b>Software Engineering Internships</b><br/>Learning, contributing and growing with great teams</td>
+</tr>
+
+<tr>
+<td align="center">🤖</td>
+<td><b>AI & Emerging Technologies</b><br/>Exploring AI, Blockchain and Cloud solutions</td>
+</tr>
+
+<tr>
+<td align="center">🤝</td>
+<td><b>Open Source Collaboration</b><br/>Sharing knowledge and building together</td>
+</tr>
+
+</table>
+
+<br/>
+
+### 💡 My Developer Philosophy
+
+> **"Great software is built by curiosity, creativity, and continuous improvement."**
+
+<br/>
+
+⭐ **Thanks for visiting my profile!**  
+Let's connect, collaborate, and build something amazing together 🚀
 
 </div>
 
----
+<br>
 
 <div align="center">
 
@@ -197,7 +257,7 @@ export default new Developer();
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Always+Learning+New+Things;Open+to+Collaborations;Happy+Coding;Keep+Learning;Build+Something+Awesome!)
 
-*Last Updated: May 2026*
+*Last Updated: july 2026*
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
