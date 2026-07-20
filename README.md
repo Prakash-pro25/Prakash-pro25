@@ -2,17 +2,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAKASH%20P&fontSize=42&fontAlignY=32&desc=Building%20Digital%20Experiences%20|%20One%20Line%20at%20a%20Time&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
-
-</div>
-<div align="center">
-
-# 💻 Full Stack Developer | 🚀 B.Tech Information Technology Student
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=PRAKASH%20P&fontSize=42&fontAlignY=32&desc=💻%20Full%20Stack%20Developer%20|%20♨️Turning%20Coffee%20into%20Code&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
 ### Building Modern Web Applications & Solving Real-World Problems
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Open+Source+Enthusiast;Always+Learning+New+Technologies;Welcome+to+My+GitHub+Profile!" />
-
 </div>
 
 ---
