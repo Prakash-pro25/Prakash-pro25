@@ -48,7 +48,6 @@ class Developer {
 
 export default new Developer();
 ```
-```
 
 ---
 
