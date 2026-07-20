@@ -12,7 +12,6 @@
 
 ---
 
-## 🚀 About Me
 
 ## 👨‍💻 About Me
 
