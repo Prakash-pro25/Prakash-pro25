@@ -37,7 +37,18 @@ class Developer {
 
 export default new Developer();
 ```
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
+### 🚀 What Drives Me
+
+- 💻 **Creative Coder** - I don't just write code, I craft experiences
+- 🎨 **UI/UX Design Sense** - Making things beautiful AND functional
+- 🎬 **Content Creator** - Capturing memories through videos and photos
+- 🧩 **Problem Solver** - Love tackling complex challenges with patience
+- ⚡ **Fast Learner** - Always hungry for new tech and skills
+- 🎯 **Detail-Oriented** - Can sit for hours perfecting that one feature
+
+<br clear="right"/>
 ---
 
 # 🛠 Tech Stack
@@ -74,37 +85,20 @@ export default new Developer();
 
 ---
 
-# 📂 Featured Projects
+## 💼 Featured Projects
 
-## 🏫 IT Department Portal
+<div align="center">
 
-> Complete department management system with Admin, Faculty & Student dashboards.
+| Project | Description | Tech Stack | Repository |
+|---------|-------------|------------|------------|
+| 🏫 **IT Department Portal** | A complete department management platform with role-based dashboards, announcements, events, faculty, students, placements, and admin management. | React, Node.js, Express.js, MongoDB, JWT | [View Project](https://github.com/YOUR_USERNAME/it-department-portal) |
+| 🔗 **Blockchain-Based Record Management System** | Secure and tamper-proof document management system using blockchain technology with digital verification and immutable record storage. | MERN Stack, Blockchain, IPFS | [View Project](https://github.com/YOUR_USERNAME/blockchain-record-management) |
+| 🏙️ **Smart Civic Issue Reporting System** | Citizens can report civic issues with image uploads, live location tracking, status updates, and authority management dashboard. | React, Node.js, MongoDB, Leaflet | [View Project](https://github.com/YOUR_USERNAME/smart-civic) |
+| 🎓 **College Management System** | Complete ERP solution with role-based authentication, attendance, timetable, academics, and administration modules. | React, Express.js, MongoDB | [View Project](https://github.com/YOUR_USERNAME/college-management-system) |
+| 🤖 **Quantum AI Stock Prediction** | AI-powered stock trend prediction system integrating Quantum Computing concepts with machine learning visualization dashboard. | Python, React, Flask, Quantum AI | [View Project](https://github.com/YOUR_USERNAME/quantum-ai-stock-prediction) |
+| 🌍 **ClimateTwin AI** | AI-powered Digital Twin platform for climate prediction, disaster monitoring, and environmental analytics. | React, Python, TensorFlow, GIS | [View Project](https://github.com/YOUR_USERNAME/climatetwin-ai) |
 
-**Tech Used**
-
-- React
-- Node.js
-- Express
-- MongoDB
-- JWT Authentication
-
----
-
-## 🔗 Blockchain-Based Record Management System
-
-Secure digital record verification using blockchain technology.
-
----
-
-## 🏙 Civic Issue Reporting System
-
-Report and track civic issues with image upload, location tracking, and status updates.
-
----
-
-## 📚 College Management System
-
-Role-based management system for students, faculty, attendance, and academics.
+</div>
 
 ---
 
